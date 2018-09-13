@@ -7,7 +7,7 @@ jobs:
   build:
     docker:
       # specify the version you desire here
-      - image: circleci/php:7.1-jessie-node-browsers
+      - image: circleci/php:7.1-apache-node-browsers
       
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
@@ -18,6 +18,13 @@ jobs:
 
     steps:
       - checkout
+
+      - run:
+          name: Setup tools
+          command: |
+            sudo apt-get -qq update && sudo apt-get -qqy upgrade
+            sudo apt-get -yqq install libpng-dev mariadb-client nano
+            sudo docker-php-ext-install gd mbstring mysqli pdo pdo_mysql
 
       # Download and cache dependencies
       - restore_cache:
