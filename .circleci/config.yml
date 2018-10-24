@@ -21,7 +21,7 @@ jobs:
 
       - add_ssh_keys:
           fingerprints:
-            - "2e:31:ec:3a:42:14:52:9a:ab:0d:f5:e9:cc:26:03:f4"
+            - "2a:45:fa:96:8a:61:63:75:69:39:ae:3d:33:d6:0e:b1"
 
       - run:
           name: "Pull Submodules"
