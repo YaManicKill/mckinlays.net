@@ -50,6 +50,9 @@ jobs:
             - ./vendor
           key: v1-dependencies-{{ checksum "composer.json" }}
 
+      # Delete settings before deploying
+      - run: rm web/sites/default/settings.php
+
       - deploy:
           name: deploy master
           command: |
