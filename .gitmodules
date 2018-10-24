@@ -1,0 +1,3 @@
+[submodule "web/sites/default/themes/mckinlays"]
+	path = web/sites/default/themes/mckinlays
+	url = git@github.com:McInkay/mckinlays-theme.git
