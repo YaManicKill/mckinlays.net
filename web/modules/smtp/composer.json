@@ -8,7 +8,7 @@
     "issues": "https://www.drupal.org/project/issues/smtp"
   },
   "require": {
-    "drupal/core": "9.0.0",
+    "drupal/core": "9.0.1",
     "phpmailer/phpmailer": "6.1.6"
   },
   "extra": {
