@@ -4450,16 +4450,16 @@
         },
         {
             "name": "symfony/config",
-            "version": "v4.4.11",
+            "version": "v4.4.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/config.git",
-                "reference": "b1d8f0d9341ea1d378b8b043ba90739f37c49d36"
+                "reference": "e85481cf359a7b28a44ac91f7d83441b70d76192"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/config/zipball/b1d8f0d9341ea1d378b8b043ba90739f37c49d36",
-                "reference": "b1d8f0d9341ea1d378b8b043ba90739f37c49d36",
+                "url": "https://api.github.com/repos/symfony/config/zipball/e85481cf359a7b28a44ac91f7d83441b70d76192",
+                "reference": "e85481cf359a7b28a44ac91f7d83441b70d76192",
                 "shasum": ""
             },
             "require": {
@@ -4481,11 +4481,6 @@
                 "symfony/yaml": "To use the yaml reference dumper"
             },
             "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "4.4-dev"
-                }
-            },
             "autoload": {
                 "psr-4": {
                     "Symfony\\Component\\Config\\": ""
@@ -4524,7 +4519,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-07-15T08:27:46+00:00"
+            "time": "2020-10-24T11:50:19+00:00"
         },
         {
             "name": "symfony/console",
@@ -4609,27 +4604,22 @@
         },
         {
             "name": "symfony/css-selector",
-            "version": "v4.4.11",
+            "version": "v4.4.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/css-selector.git",
-                "reference": "bf17dc9f6ce144e41f786c32435feea4d8e11dcc"
+                "reference": "719506cffda9dba80c75d94ac50f1a2561520e4f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/css-selector/zipball/bf17dc9f6ce144e41f786c32435feea4d8e11dcc",
-                "reference": "bf17dc9f6ce144e41f786c32435feea4d8e11dcc",
+                "url": "https://api.github.com/repos/symfony/css-selector/zipball/719506cffda9dba80c75d94ac50f1a2561520e4f",
+                "reference": "719506cffda9dba80c75d94ac50f1a2561520e4f",
                 "shasum": ""
             },
             "require": {
                 "php": ">=7.1.3"
             },
             "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "4.4-dev"
-                }
-            },
             "autoload": {
                 "psr-4": {
                     "Symfony\\Component\\CssSelector\\": ""
@@ -4672,7 +4662,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-07-05T09:39:30+00:00"
+            "time": "2020-10-24T11:50:19+00:00"
         },
         {
             "name": "symfony/debug",
@@ -4822,16 +4812,16 @@
         },
         {
             "name": "symfony/dom-crawler",
-            "version": "v4.4.11",
+            "version": "v4.4.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/dom-crawler.git",
-                "reference": "72b3a65ddd5052cf6d65eac6669748ed311f39bf"
+                "reference": "30ad9ac96a01913195bf0328d48e29d54fa53e6e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/dom-crawler/zipball/72b3a65ddd5052cf6d65eac6669748ed311f39bf",
-                "reference": "72b3a65ddd5052cf6d65eac6669748ed311f39bf",
+                "url": "https://api.github.com/repos/symfony/dom-crawler/zipball/30ad9ac96a01913195bf0328d48e29d54fa53e6e",
+                "reference": "30ad9ac96a01913195bf0328d48e29d54fa53e6e",
                 "shasum": ""
             },
             "require": {
@@ -4850,11 +4840,6 @@
                 "symfony/css-selector": ""
             },
             "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "4.4-dev"
-                }
-            },
             "autoload": {
                 "psr-4": {
                     "Symfony\\Component\\DomCrawler\\": ""
@@ -4893,7 +4878,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-07-23T08:31:43+00:00"
+            "time": "2020-10-24T11:50:19+00:00"
         },
         {
             "name": "symfony/event-dispatcher",
@@ -6716,32 +6701,30 @@
         },
         {
             "name": "webmozart/assert",
-            "version": "1.4.0",
+            "version": "1.9.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/webmozart/assert.git",
-                "reference": "83e253c8e0be5b0257b881e1827274667c5c17a9"
+                "reference": "bafc69caeb4d49c39fd0779086c03a3738cbb389"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webmozart/assert/zipball/83e253c8e0be5b0257b881e1827274667c5c17a9",
-                "reference": "83e253c8e0be5b0257b881e1827274667c5c17a9",
+                "url": "https://api.github.com/repos/webmozart/assert/zipball/bafc69caeb4d49c39fd0779086c03a3738cbb389",
+                "reference": "bafc69caeb4d49c39fd0779086c03a3738cbb389",
                 "shasum": ""
             },
             "require": {
-                "php": "^5.3.3 || ^7.0",
+                "php": "^5.3.3 || ^7.0 || ^8.0",
                 "symfony/polyfill-ctype": "^1.8"
             },
+            "conflict": {
+                "phpstan/phpstan": "<0.12.20",
+                "vimeo/psalm": "<3.9.1"
+            },
             "require-dev": {
-                "phpunit/phpunit": "^4.6",
-                "sebastian/version": "^1.0.1"
+                "phpunit/phpunit": "^4.8.36 || ^7.5.13"
             },
             "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "1.3-dev"
-                }
-            },
             "autoload": {
                 "psr-4": {
                     "Webmozart\\Assert\\": "src/"
@@ -6763,7 +6746,7 @@
                 "check",
                 "validate"
             ],
-            "time": "2018-12-25T11:19:39+00:00"
+            "time": "2020-07-08T17:02:28+00:00"
         },
         {
             "name": "webmozart/path-util",
