@@ -10,7 +10,7 @@
     "source": "https://git.drupalcode.org/project/captcha"
   },
   "require": {
-    "drupal/core": "9.0.0"
+    "drupal/core": "^8.8 || ^9"
   },
   "extra": {
     "branch-alias": {
