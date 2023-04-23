@@ -1,3 +1,6 @@
-[submodule "web/sites/default/themes/mckinlays"]
-	path = web/sites/default/themes/mckinlays
-	url = git@github.com:McInkay/mckinlays-theme.git
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://github.com/yamanickill/hyde.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
