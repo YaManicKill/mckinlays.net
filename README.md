@@ -1,6 +1,3 @@
-## Updating
+## Site for mckinlays.net
 
-Edit the drupal version in `composer.json`
-`composer update drupal/core --with-dependencies`
-Merge composer.lock changes into master
-Call url/update.php to update
+Uses Hugo
