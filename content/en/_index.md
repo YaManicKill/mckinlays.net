@@ -2,9 +2,9 @@
 title: "McKinlays.net"
 
 description: ""
-theme_version: '2.8.2'
+theme_version: "2.8.2"
 cascade:
-  featured_image: 'images/hero-image.jpg'
+  featured_image: "images/hero-image.jpg"
 ---
 
 {{< row >}}
@@ -19,9 +19,9 @@ A number of years ago, the American military coined the acronym, VUCA. This stan
 {{% markdown %}}
 I have significant and extensive experience in strategic leadership and management in the public sector. As an educationalist I have wide ranging skills in educational management, additional support needs, curriculum development, lifelong professional learning and resource deployment. I love supporting people in their own growth and have invested heavily in sector leading approaches to professional learning. Here are a few examples:
 
-* I have developed and delivered sector leading leadership and management training and professional development. This has included working alongside Drummond International and as an associate tutor on the Into Headship programme with the University of Strathclyde.
-* As an experienced registered mediator with an MSc in mediation and conflict resolution, I have significant background in resolving disputes in the workplace and in relationship challenges in a broad range of contexts.
-* I have had the privilege of supporting many individuals to develop their confidence and competence through a broad range of mentoring and coaching programmes over many years.
+- I have developed and delivered sector leading leadership and management training and professional development. This has included working alongside Drummond International and as an associate tutor on the Into Headship programme with the University of Strathclyde.
+- As an experienced registered mediator with an MSc in mediation and conflict resolution, I have significant background in resolving disputes in the workplace and in relationship challenges in a broad range of contexts.
+- I have had the privilege of supporting many individuals to develop their confidence and competence through a broad range of mentoring and coaching programmes over many years.
 
 **Leadership Support and Development**  
 Senior leaders need time and space to grow and flourish. Through collaborative and cooperative approaches, a bespoke programme of leadership development activities, one to one coaching, mentoring or facilitated workshops can be delivered.
@@ -39,7 +39,7 @@ Mediation is a flexible approach that can be used to settle disputes in a wide r
 {{< form-contact >}}
 {{% markdown %}}
 **Conflict Coaching**  
-Conflict coaching can support peoples’ confidence and competence in engaging in, managing, and productively resolving conflict. In this process, the conflict coach works on a one-to-one basis dealing with a conflict situation.  It enables the individual to talk about the conflict with a neutral third party, consider options for managing the conflict and develop an approach to discuss the conflict with the other person. 
+Conflict coaching can support peoples’ confidence and competence in engaging in, managing, and productively resolving conflict. In this process, the conflict coach works on a one-to-one basis dealing with a conflict situation.  It enables the individual to talk about the conflict with a neutral third party, consider options for managing the conflict and develop an approach to discuss the conflict with the other person.
 
 **Fact-Finding Investigations**  
 There are occasions where it can be helpful to commission an external and independent individual to undertake an investigation process in order to clarify and document a serious challenge facing an organisation, team or individual. Fact finding investigations can help to identify destructive patterns within the organisation system. This can be particularly important when an individual is accused of a breach of trust, malfeasance or sexual misconduct.
