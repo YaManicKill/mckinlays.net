@@ -19,6 +19,6 @@
   "homepage": "https://mckinlays.net",
   "dependencies": {
     "hugo-bin": "0.119.0",
-    "rimraf": "6.1.0"
+    "rimraf": "6.1.2"
   }
 }
